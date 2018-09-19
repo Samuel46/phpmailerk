@@ -1,0 +1,14 @@
+input, textarea {
+    width: 250px;
+    height: 27px;
+    margin-bottom: 10px;
+
+}
+textarea {
+    height: 100px
+}
+
+body {
+    text-align: center;
+    margin-top: 200px;
+}
